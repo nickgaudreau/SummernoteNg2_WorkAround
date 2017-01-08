@@ -4,6 +4,8 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 Summernote editor in Ng2 app using Jquery as work around
 
+WORKING example: https://ng2summernote.firebaseapp.com/Demo
+
 ## Development server
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
